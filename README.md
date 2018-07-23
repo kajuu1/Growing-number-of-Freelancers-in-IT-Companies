@@ -1,0 +1,2 @@
+# Growing-number-of-Freelancers-in-IT-Companies
+The fields in which the freelancers are  highly in demand especially in IT Companies i.e. react native developer, node js, full stack developer, frontend developer, ios mobile app developer,angular web developer etc.Freelancing is best for those who want to do work with independence and freedom.freelancer must have good in communication skills. Anyone can be a freelancer who have technical skills and one who is the best in time management
